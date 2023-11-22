@@ -53,7 +53,9 @@
         ["v2", "sara-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/sara-jp%20208%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Kujou_Sara_Full_Wish.png"],
         ["v2", "shenhe-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/shenhe-jp%20125%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Character_Shenhe_Full_Wish.png"],
         ["v2", "signora-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/signora-jp%201k%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Enemy_La_Signora.png"],
+        ["v2", "tartaglia-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/tartaglia-jp%20103%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Character_Tartaglia_Full_Wish.png"],
         ["v2", "venti-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/venti-jp%20100%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Character_Venti_Full_Wish.png"],
+        ["v2", "wriothesley-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/wriothesley-jp%20101%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Wriothesley_Full_Wish.png"],
         ["v2", "xiao-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/xiao-jp%20100%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Character_Xiao_Full_Wish.png"],
         ["v2", "yanfei-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/yanfei-jp%20107%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Character_Yanfei_Full_Wish.png"],
         ["v2", "zhongli-jp-v2", "https://huggingface.co/ArkanDash/rvc-genshin-impact/resolve/main/prezipped/v2/zhongli-jp%20102%20epochs%2048k%20v2.zip", "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Character_Zhongli_Full_Wish.png"]
@@ -112,7 +114,9 @@
         "sara-jp-v2",
         "shenhe-jp-v2",
         "signora-jp-v2",
+        "tartaglia-jp-v2",
         "venti-jp-v2",
+        "wriothesley-jp-v2",
         "xiao-jp-v2",
         "yanfei-jp-v2",
         "zhongli-jp-v2"
