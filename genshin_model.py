@@ -375,4 +375,4 @@ def download_models_from_config(config_file):
 
 if __name__ == "__main__":
     
-    download_models_from_config(genshin_model.json)
+    download_models_from_config("genshin_model.json")
